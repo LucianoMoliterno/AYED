@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1644504908 source:c:\users\nperez\desktop\clase0-tda\main.c
+	<stdio.h>
+	<stdlib.h>
+	"animal.h"
+
+1644504387 c:\users\nperez\desktop\clase0-tda\animal.h
+
+1644505228 source:c:\users\nperez\desktop\clase0-tda\animal.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"animal.h"
+

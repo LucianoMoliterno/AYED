@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1648775901 source:c:\users\nico_\desktop\respuestas\carton.c
+	<stdio.h>
+	<stdlib.h>
+	"carton.h"
+
+1648776300 source:c:\users\nico_\desktop\respuestas\jugada.c
+	<stdio.h>
+	<stdlib.h>
+	"jugada.h"
+	<time.h>
+
+1648775753 c:\users\nico_\desktop\respuestas\jugada.h
+
+1648776346 source:c:\users\nico_\desktop\respuestas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"jugada.h"
+	"carton.h"
+
+1648775753 c:\users\nico_\desktop\respuestas\carton.h
+
