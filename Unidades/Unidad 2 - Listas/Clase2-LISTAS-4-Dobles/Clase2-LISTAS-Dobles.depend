@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1500689846 source:c:\users\nico_\desktop\clase2-listas-dobles\lista_doblemente_enlazada.c
+	"lista_doblemente_enlazada.h"
+
+1500689846 c:\users\nico_\desktop\clase2-listas-dobles\lista_doblemente_enlazada.h
+	"dato.h"
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+
+1644607705 c:\users\nico_\desktop\clase2-listas-dobles\dato.h
+

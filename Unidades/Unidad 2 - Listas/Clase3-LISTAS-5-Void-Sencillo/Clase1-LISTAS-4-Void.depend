@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1644539572 source:c:\users\nico_\desktop\clase1-listas-4-void\lista.c
+	"lista.h"
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1644539572 c:\users\nico_\desktop\clase1-listas-4-void\lista.h
+	<limits.h>
+	<stdbool.h>
+
+1644538902 source:c:\users\nico_\desktop\clase1-listas-4-void\main.c
+	"lista.h"
+	<stdio.h>
+	<stdlib.h>
+
+1651074894 source:c:\users\nperez\desktop\clase3-listas-5-void\lista.c
+	"lista.h"
+	<stdlib.h>
+	<string.h>
+
+1651074894 c:\users\nperez\desktop\clase3-listas-5-void\lista.h
+
+1651074313 source:c:\users\nperez\desktop\clase3-listas-5-void\main.c
+	"lista.h"
+	<stdio.h>
+	<stdlib.h>
+
+1651621417 source:c:\users\nico_\desktop\clase3-listas-5-void-sencillo\lista.c
+	"lista.h"
+	<stdlib.h>
+	<string.h>
+
+1651621417 c:\users\nico_\desktop\clase3-listas-5-void-sencillo\lista.h
+
+1651622139 source:c:\users\nico_\desktop\clase3-listas-5-void-sencillo\main.c
+	"lista.h"
+	<stdio.h>
+	<stdlib.h>
+

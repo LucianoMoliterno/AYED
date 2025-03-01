@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1500675446 source:c:\users\nperez\desktop\clase1-listas-3\primitivas_lista_circular.c
+	"primitivas_lista_circular.h"
+
+1500675446 c:\users\nperez\desktop\clase1-listas-3\primitivas_lista_circular.h
+	"dato.h"
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+
+1644521438 c:\users\nperez\desktop\clase1-listas-3\dato.h
+

@@ -1,0 +1,96 @@
+# depslib dependency file v1.0
+1644515361 source:c:\users\nperez\desktop\clase1-listas-1\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1644512483 c:\users\nperez\desktop\clase1-listas-1\lista.h
+
+1644515094 source:c:\users\nperez\desktop\clase1-listas-1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1644518415 source:c:\users\nperez\desktop\clase1-listas-2\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1644517158 c:\users\nperez\desktop\clase1-listas-2\lista.h
+	"dato.h"
+
+1644505228 source:c:\users\nperez\desktop\clase1-listas-2\animal.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"animal.h"
+
+1644504387 c:\users\nperez\desktop\clase1-listas-2\animal.h
+
+1644518434 source:c:\users\nperez\desktop\clase1-listas-2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"animal.h"
+	"dato.h"
+	"lista.h"
+
+1644518415 c:\users\nperez\desktop\clase1-listas-2\dato.h
+	"animal.h"
+
+1644487228 source:c:\users\nico_\desktop\unidad 1 - listas\unidad 1 - listas\clase1-listas-2-simples-datotda\animal.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"animal.h"
+
+1644486386 c:\users\nico_\desktop\unidad 1 - listas\unidad 1 - listas\clase1-listas-2-simples-datotda\animal.h
+
+1644500414 source:c:\users\nico_\desktop\unidad 1 - listas\unidad 1 - listas\clase1-listas-2-simples-datotda\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1644499158 c:\users\nico_\desktop\unidad 1 - listas\unidad 1 - listas\clase1-listas-2-simples-datotda\lista.h
+	"dato.h"
+
+1650413013 c:\users\nico_\desktop\unidad 1 - listas\unidad 1 - listas\clase1-listas-2-simples-datotda\dato.h
+	"animal.h"
+
+1644500434 source:c:\users\nico_\desktop\unidad 1 - listas\unidad 1 - listas\clase1-listas-2-simples-datotda\main.c
+	<stdio.h>
+	<stdlib.h>
+	"animal.h"
+	"dato.h"
+	"lista.h"
+
+1650434414 source:c:\users\nico_\desktop\contda\animal.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"animal.h"
+
+1650434416 c:\users\nico_\desktop\contda\animal.h
+
+1651020724 source:c:\users\nico_\desktop\contda\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1651020296 c:\users\nico_\desktop\contda\lista.h
+	"dato.h"
+
+1651020641 c:\users\nico_\desktop\contda\dato.h
+	"animal.h"
+
+1651021018 source:c:\users\nico_\desktop\contda\main.c
+	<stdio.h>
+	<stdlib.h>
+	"dato.h"
+	"animal.h"
+	"lista.h"
+
+1651020937 source:c:\users\nico_\desktop\contda\dato.c
+	<stdio.h>
+	<stdlib.h>
+	"dato.h"
+

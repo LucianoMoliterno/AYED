@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1644539572 source:c:\users\nico_\desktop\clase1-listas-4-void\lista.c
+	"lista.h"
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1644539572 c:\users\nico_\desktop\clase1-listas-4-void\lista.h
+	<limits.h>
+	<stdbool.h>
+
+1644538902 source:c:\users\nico_\desktop\clase1-listas-4-void\main.c
+	"lista.h"
+	<stdio.h>
+	<stdlib.h>
+
