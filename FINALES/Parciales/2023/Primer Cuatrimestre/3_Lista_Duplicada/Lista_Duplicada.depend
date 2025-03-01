@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1736950431 source:c:\users\medraut\desktop\6.algoritmos y estructura de datos\finales\parciales\2023\primer cuatrimestre\lista_duplicada\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1736950579 c:\users\medraut\desktop\6.algoritmos y estructura de datos\finales\parciales\2023\primer cuatrimestre\lista_duplicada\include\lista.h
+
+1736950591 source:c:\users\medraut\desktop\6.algoritmos y estructura de datos\finales\parciales\2023\primer cuatrimestre\lista_duplicada\src\lista.cpp
+	"lista.h"
+	<stdio.h>
+	<stdlib.h>
+

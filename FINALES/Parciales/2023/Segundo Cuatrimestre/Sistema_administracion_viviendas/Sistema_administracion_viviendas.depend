@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1736965696 source:c:\users\medraut\desktop\6.algoritmos y estructura de datos\finales\parciales\2023\segundo cuatrimestre\sistema_administracion_viviendas\src\lista.cpp
+	"lista.h"
+	<iostream>
+
+1736965682 c:\users\medraut\desktop\6.algoritmos y estructura de datos\finales\parciales\2023\segundo cuatrimestre\sistema_administracion_viviendas\include\lista.h
+	"vivienda.h"
+
+1736965658 c:\users\medraut\desktop\6.algoritmos y estructura de datos\finales\parciales\2023\segundo cuatrimestre\sistema_administracion_viviendas\include\vivienda.h
+	<string>
+
+1736965671 source:c:\users\medraut\desktop\6.algoritmos y estructura de datos\finales\parciales\2023\segundo cuatrimestre\sistema_administracion_viviendas\src\vivienda.cpp
+	"vivienda.h"
+	<iostream>
+
