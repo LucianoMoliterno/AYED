@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1732807216 source:c:\users\medraut\desktop\ayed\tp_2022_cine\cine.cpp
+	"Cine.h"
+	<iostream>
+	<fstream>
+
+1732807387 c:\users\medraut\desktop\ayed\tp_2022_cine\cine.h
+	<queue>
+	<stack>
+	<string>
+	"Snack.h"
+
+1732807386 c:\users\medraut\desktop\ayed\tp_2022_cine\snack.h
+	<string>
+
+1732807442 source:c:\users\medraut\desktop\ayed\tp_2022_cine\main.cpp
+	<iostream>
+	"Cine.h"
+
+1732807168 source:c:\users\medraut\desktop\ayed\tp_2022_cine\snack.cpp
+	"Snack.h"
+

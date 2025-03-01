@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1734357219 source:c:\users\medraut\desktop\6.algoritmos y estructura de datos\tp cuatrimestral\tp_sucursales\src\sucursales.cpp
+	"sucursales.h"
+	<iostream>
+	<limits>
+
+1734357221 c:\users\medraut\desktop\6.algoritmos y estructura de datos\tp cuatrimestral\tp_sucursales\include\sucursales.h
+	<string>
+
+1734357560 source:c:\users\medraut\desktop\6.algoritmos y estructura de datos\tp cuatrimestral\tp_sucursales\main.cpp
+	"sucursales.h"
+	<iostream>
+
