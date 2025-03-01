@@ -38,3 +38,23 @@
 
 ---
 
+## 🛠️ Tools & Workflow
+- **Development**: Code::Blocks (C/C++)
+- **Persistence**:
+  - Basic: Text files (fstream)
+  - Advanced: MySQL integration (optional)
+
+- **Validation**: Valgrind for memory leaks
+
+---
+
+## 🔑 Key Features
+- **TDA/ADT Implementation**: Reusable void* structures
+- **Exam Solutions**: 2022-2025 finals/partials with O(n) analysis
+- **Industry-Grade Patterns**: Memory-efficient C++ structs
+
+---
+
+## 📜 Certification
+- **C++ Proficiency**: Demonstrated via complex ADT implementations
+- **Academic Validation**: Exam solutions peer-reviewed
