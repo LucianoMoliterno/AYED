@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1652038919 source:c:\users\nico_\desktop\arbolbinario\arbol.c
+	<stdio.h>
+	<stdlib.h>
+	"arbol.h"
+
+1652038445 c:\users\nico_\desktop\arbolbinario\arbol.h
+
+1652038943 source:c:\users\nico_\desktop\arbolbinario\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arbol.h"
+
