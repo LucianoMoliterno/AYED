@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1739890942 source:c:\users\medraut\desktop\6.algoritmos y estructura de datos\finales\2024\lista_empleados\src\empleado.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleado.h"
+
+1739890935 c:\users\medraut\desktop\6.algoritmos y estructura de datos\finales\2024\lista_empleados\include\empleado.h
+
+1739890959 source:c:\users\medraut\desktop\6.algoritmos y estructura de datos\finales\2024\lista_empleados\src\empleo.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleo.h"
+
+1739890952 c:\users\medraut\desktop\6.algoritmos y estructura de datos\finales\2024\lista_empleados\include\empleo.h
+	"lista.h"
+	"empleado.h"
+
+1737211682 source:c:\users\medraut\desktop\6.algoritmos y estructura de datos\finales\2024\lista_empleados\main.cpp
+	"empleo.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1739890900 c:\users\medraut\desktop\6.algoritmos y estructura de datos\finales\2024\lista_empleados\include\lista.h
+
+1739890911 source:c:\users\medraut\desktop\6.algoritmos y estructura de datos\finales\2024\lista_empleados\src\lista.cpp
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+

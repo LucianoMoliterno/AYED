@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1740177712 source:c:\users\aula11\desktop\moliternoluciano40238958\src\nodo.cpp
+	"nodo.h"
+	<stdlib.h>
+
+1740177923 c:\users\aula11\desktop\moliternoluciano40238958\include\nodo.h
+
+1740178504 source:c:\users\aula11\desktop\moliternoluciano40238958\src\escuela.cpp
+	"escuela.h"
+	<algorithm>
+	<numeric>
+	<iostream>
+
+1740178344 c:\users\aula11\desktop\moliternoluciano40238958\include\escuela.h
+	<string>
+	<vector>
+	<unordered_set>
+	"turno.h"
+
+1740177940 c:\users\aula11\desktop\moliternoluciano40238958\include\lista.h
+	"nodo.h"
+	<iostream>
+	<functional>
+
+1740178321 c:\users\aula11\desktop\moliternoluciano40238958\include\turno.h
+	<string>
+	<vector>
+	"docente.h"
+
+1740178305 c:\users\aula11\desktop\moliternoluciano40238958\include\docente.h
+	<string>
+
+1740178500 source:c:\users\aula11\desktop\moliternoluciano40238958\src\turno.cpp
+	"turno.h"
+	<iostream>
+
+1740178496 source:c:\users\aula11\desktop\moliternoluciano40238958\src\docente.cpp
+	"docente.h"
+	<iostream>
+
+1740177468 source:c:\users\aula11\desktop\moliternoluciano40238958\src\lista.cpp
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	"nodo.h"
+
+1740177201 source:c:\users\aula11\desktop\moliternoluciano40238958\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	"escuela.h"
+

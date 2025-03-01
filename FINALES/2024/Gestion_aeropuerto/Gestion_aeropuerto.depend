@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1737161139 source:c:\users\medraut\desktop\6.algoritmos y estructura de datos\finales\2024\gestion_aeropuerto\src\aeropuerto.cpp
+	"Aeropuerto.h"
+	<iostream>
+
+1737161130 c:\users\medraut\desktop\6.algoritmos y estructura de datos\finales\2024\gestion_aeropuerto\include\aeropuerto.h
+	"Avion.h"
+	<vector>
+
+1737161107 c:\users\medraut\desktop\6.algoritmos y estructura de datos\finales\2024\gestion_aeropuerto\include\avion.h
+	"Pasajero.h"
+	"Destino.h"
+	<vector>
+
+1737161020 c:\users\medraut\desktop\6.algoritmos y estructura de datos\finales\2024\gestion_aeropuerto\include\pasajero.h
+	<string>
+
+1737161071 c:\users\medraut\desktop\6.algoritmos y estructura de datos\finales\2024\gestion_aeropuerto\include\destino.h
+	<string>
+
+1737161113 source:c:\users\medraut\desktop\6.algoritmos y estructura de datos\finales\2024\gestion_aeropuerto\src\avion.cpp
+	"Avion.h"
+	<iostream>
+	<cmath>
+
+1737161062 source:c:\users\medraut\desktop\6.algoritmos y estructura de datos\finales\2024\gestion_aeropuerto\src\destino.cpp
+	"Destino.h"
+
+1737161027 source:c:\users\medraut\desktop\6.algoritmos y estructura de datos\finales\2024\gestion_aeropuerto\src\pasajero.cpp
+	"Pasajero.h"
+

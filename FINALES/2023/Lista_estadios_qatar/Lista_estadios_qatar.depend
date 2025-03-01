@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1737123563 source:c:\users\medraut\desktop\6.algoritmos y estructura de datos\finales\2023\lista_estadios_qatar\src\estadio.cpp
+	"estadio.h"
+	<iostream>
+
+1737123557 c:\users\medraut\desktop\6.algoritmos y estructura de datos\finales\2023\lista_estadios_qatar\include\estadio.h
+	<string>
+
+1737123585 source:c:\users\medraut\desktop\6.algoritmos y estructura de datos\finales\2023\lista_estadios_qatar\src\lista.cpp
+	"lista.h"
+	<iostream>
+
+1737123577 c:\users\medraut\desktop\6.algoritmos y estructura de datos\finales\2023\lista_estadios_qatar\include\lista.h
+	<functional>
+
