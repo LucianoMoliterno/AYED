@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1644697012 source:c:\users\nico_\desktop\clase-4-colas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cola.h"
+
+1644697887 c:\users\nico_\desktop\clase-4-colas\cola.h
+	"persona.h"
+
+1644697948 source:c:\users\nico_\desktop\clase-4-colas\cola.c
+	<stdio.h>
+	<stdlib.h>
+	"cola.h"
+
+1644541046 c:\users\nico_\desktop\clase-4-colas\persona.h
+
+1644541046 source:c:\users\nico_\desktop\clase-4-colas\persona.c
+	"persona.h"
+	<stdio.h>
+	<stdlib.h>
+
